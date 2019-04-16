@@ -1,0 +1,11 @@
+C:\Development\RandomIntArray\RandomIntArray\bin\Debug\netcoreapp2.1\RandomIntArray.deps.json
+C:\Development\RandomIntArray\RandomIntArray\bin\Debug\netcoreapp2.1\RandomIntArray.runtimeconfig.json
+C:\Development\RandomIntArray\RandomIntArray\bin\Debug\netcoreapp2.1\RandomIntArray.runtimeconfig.dev.json
+C:\Development\RandomIntArray\RandomIntArray\bin\Debug\netcoreapp2.1\RandomIntArray.dll
+C:\Development\RandomIntArray\RandomIntArray\bin\Debug\netcoreapp2.1\RandomIntArray.pdb
+C:\Development\RandomIntArray\RandomIntArray\obj\Debug\netcoreapp2.1\RandomIntArray.csprojAssemblyReference.cache
+C:\Development\RandomIntArray\RandomIntArray\obj\Debug\netcoreapp2.1\RandomIntArray.csproj.CoreCompileInputs.cache
+C:\Development\RandomIntArray\RandomIntArray\obj\Debug\netcoreapp2.1\RandomIntArray.AssemblyInfoInputs.cache
+C:\Development\RandomIntArray\RandomIntArray\obj\Debug\netcoreapp2.1\RandomIntArray.AssemblyInfo.cs
+C:\Development\RandomIntArray\RandomIntArray\obj\Debug\netcoreapp2.1\RandomIntArray.dll
+C:\Development\RandomIntArray\RandomIntArray\obj\Debug\netcoreapp2.1\RandomIntArray.pdb
