@@ -1,0 +1,11 @@
+C:\Development\RandomIntArray\RearrangeArray\obj\Debug\netcoreapp2.1\RearrangeArray.csprojAssemblyReference.cache
+C:\Development\RandomIntArray\RearrangeArray\obj\Debug\netcoreapp2.1\RearrangeArray.csproj.CoreCompileInputs.cache
+C:\Development\RandomIntArray\RearrangeArray\obj\Debug\netcoreapp2.1\RearrangeArray.AssemblyInfoInputs.cache
+C:\Development\RandomIntArray\RearrangeArray\obj\Debug\netcoreapp2.1\RearrangeArray.AssemblyInfo.cs
+C:\Development\RandomIntArray\RearrangeArray\bin\Debug\netcoreapp2.1\RearrangeArray.deps.json
+C:\Development\RandomIntArray\RearrangeArray\bin\Debug\netcoreapp2.1\RearrangeArray.runtimeconfig.json
+C:\Development\RandomIntArray\RearrangeArray\bin\Debug\netcoreapp2.1\RearrangeArray.runtimeconfig.dev.json
+C:\Development\RandomIntArray\RearrangeArray\bin\Debug\netcoreapp2.1\RearrangeArray.dll
+C:\Development\RandomIntArray\RearrangeArray\bin\Debug\netcoreapp2.1\RearrangeArray.pdb
+C:\Development\RandomIntArray\RearrangeArray\obj\Debug\netcoreapp2.1\RearrangeArray.dll
+C:\Development\RandomIntArray\RearrangeArray\obj\Debug\netcoreapp2.1\RearrangeArray.pdb
